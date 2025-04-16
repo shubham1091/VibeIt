@@ -2,6 +2,7 @@
   "scheme": "VibeIt",
   "expo": {
     "name": "FrontEnd",
+    "scheme": "VibeIt",
     "slug": "FrontEnd",
     "version": "1.0.0",
     "orientation": "portrait",
