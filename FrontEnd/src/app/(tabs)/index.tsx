@@ -1,12 +1,10 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { View } from "react-native";
+import PostListItem from "../../components/PostListItem";
 
-const index = () => {
+export default function HomeScreen() {
   return (
     <View>
-      <Text>index</Text>
+      <PostListItem />
     </View>
-  )
+  );
 }
-
-export default index
